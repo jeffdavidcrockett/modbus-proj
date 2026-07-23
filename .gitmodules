@@ -1,0 +1,6 @@
+[submodule "middlewares/schemas"]
+	path = middlewares/schemas
+	url = git@github.com:jeffdavidcrockett/schemas.git
+[submodule "middlewares/schema-generation"]
+	path = middlewares/schema-generation
+	url = git@github.com:jeffdavidcrockett/schema-generation.git
